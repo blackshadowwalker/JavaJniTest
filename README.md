@@ -1,4 +1,4 @@
-CloudNote
+JavaJniTest
 =========
 
-MyCloudNote
+My Jni study.
